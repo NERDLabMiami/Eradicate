@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acd6581c52576403a8eb4e84794373e3, type: 3}
+  m_Name: Mosquito Deck
+  m_EditorClassIdentifier: Assembly-CSharp::Eradicate.DeckDefinition
+  cards:
+  - {fileID: 11400000, guid: 85b82206b37044e8bb9eb071ae0c9837, type: 2}
+  - {fileID: 11400000, guid: 75da5b3e7f6b447c5a78bd77284b9317, type: 2}
+  - {fileID: 11400000, guid: e6b4c18ea0cff4214b14b670fca5e23a, type: 2}
+  - {fileID: 11400000, guid: 6b104337394b34fef90185766467c11e, type: 2}
+  - {fileID: 11400000, guid: 1bf0c7060ca80499fa213567505735c1, type: 2}
+  - {fileID: 11400000, guid: 2dd6aca778fce419f80523fc7e43e857, type: 2}
+  - {fileID: 11400000, guid: 0b1ccb7d1ad6941d5b71cf082861a11f, type: 2}
+  - {fileID: 11400000, guid: 6c64d6b448fe74e5eb6525ed8cc6bef2, type: 2}
+  - {fileID: 11400000, guid: 99fbd9eee3ae247268d1551dd236d24e, type: 2}
